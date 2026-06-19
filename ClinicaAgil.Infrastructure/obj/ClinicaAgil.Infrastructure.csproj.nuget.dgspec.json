@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj": {}
+    "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj": {}
   },
   "projects": {
     "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Application\\ClinicaAgil.Application.Csproj": {
@@ -138,12 +138,12 @@
         }
       }
     },
-    "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj": {
+    "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj",
         "projectName": "ClinicaAgil.Infrastructure",
-        "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj",
         "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

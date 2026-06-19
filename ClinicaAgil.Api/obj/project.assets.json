@@ -2839,8 +2839,8 @@
     },
     "ClinicaAgil.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../ClinicaAgil.Infrastructure/ClinicaAgil.Infrastructure.csproj",
-      "msbuildProject": "../ClinicaAgil.Infrastructure/ClinicaAgil.Infrastructure.csproj"
+      "path": "../ClinicaAgil.Infrastructure/ClinicaAgil.Infrastructure.Csproj",
+      "msbuildProject": "../ClinicaAgil.Infrastructure/ClinicaAgil.Infrastructure.Csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2879,8 +2879,8 @@
             "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Application\\ClinicaAgil.Application.Csproj": {
               "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Application\\ClinicaAgil.Application.Csproj"
             },
-            "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj"
+            "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj": {
+              "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj"
             }
           }
         }
