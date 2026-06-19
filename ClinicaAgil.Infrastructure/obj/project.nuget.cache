@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ViFzrMbfYI=",
+  "dgSpecHash": "0XmgDJMYduI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Jefferson\\Documents\\GitHub\\ClinicaAgil\\ClinicaAgil.Infrastructure\\ClinicaAgil.Infrastructure.Csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jefferson\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Jefferson\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
