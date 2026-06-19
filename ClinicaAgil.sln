@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaAgil.Api", "ClinicaAgil.Api\ClinicaAgil.Api.Csproj", "{7E698803-0240-4065-94B5-DD9B46FD4C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaAgil.Application", "ClinicaAgil.Application\ClinicaAgil.Application.Csproj", "{8224329F-7045-4A60-9467-F86C016C062B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaAgil.Domain", "ClinicaAgil.Domain\ClinicaAgil.Domain.Csproj", "{52E55CA2-18ED-48A4-AE03-4A464FC89558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaAgil.Infrastructure", "ClinicaAgil.Infrastructure\ClinicaAgil.Infrastructure.Csproj", "{34939769-50DA-47F0-884B-12CBB7F93390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E698803-0240-4065-94B5-DD9B46FD4C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E698803-0240-4065-94B5-DD9B46FD4C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E698803-0240-4065-94B5-DD9B46FD4C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E698803-0240-4065-94B5-DD9B46FD4C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8224329F-7045-4A60-9467-F86C016C062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8224329F-7045-4A60-9467-F86C016C062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8224329F-7045-4A60-9467-F86C016C062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8224329F-7045-4A60-9467-F86C016C062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E55CA2-18ED-48A4-AE03-4A464FC89558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E55CA2-18ED-48A4-AE03-4A464FC89558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E55CA2-18ED-48A4-AE03-4A464FC89558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E55CA2-18ED-48A4-AE03-4A464FC89558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34939769-50DA-47F0-884B-12CBB7F93390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34939769-50DA-47F0-884B-12CBB7F93390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34939769-50DA-47F0-884B-12CBB7F93390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34939769-50DA-47F0-884B-12CBB7F93390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
