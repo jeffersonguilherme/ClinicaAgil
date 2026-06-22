@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClinicaAgil.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac63a6ddf4696d204c6753348866bc1dbe348f21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0572425c411c17e3b18dcb75955118ea8369a4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicaAgil.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicaAgil.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
